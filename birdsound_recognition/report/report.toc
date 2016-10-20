@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Definition}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Project Overview}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Problem Statement}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Metrics}{3}{subsection.1.3}
+\contentsline {section}{\numberline {2}Analysis}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Data exploration}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Exploratory Visualization}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Algorithm and Techniques}{4}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Spectrograms and audio recognition}{4}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Generating features from the segments}{6}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Algorithms for classification}{7}{subsubsection.2.3.3}
+\contentsline {subsection}{\numberline {2.4}Benchmark}{7}{subsection.2.4}
+\contentsline {section}{\numberline {3}Methodology}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}Data preprocessing}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Implementation}{8}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Parameters}{8}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}Refinement}{10}{subsection.3.3}
+\contentsline {section}{\numberline {4}Results}{10}{section.4}
+\contentsline {subsection}{\numberline {4.1}Model Evaluation and Validation}{10}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Justification}{11}{subsection.4.2}
+\contentsline {section}{\numberline {5}Conclusion}{11}{section.5}
+\contentsline {subsection}{\numberline {5.1}Free-form visualisation}{11}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Reflection}{12}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Improvement}{12}{subsection.5.3}
